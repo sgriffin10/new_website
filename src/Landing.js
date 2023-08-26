@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "./Components/Header";
 import Introduction from "./Components/Introduction";
-// import Experience from "./Components/Experience/Experience";
+import Experience from "./Components/Experience/Experience";
 // import About from "./Components/About/About";
 
 function Landing() {
@@ -11,9 +11,9 @@ function Landing() {
         <Header />
         <Introduction />
       </div>
-      {/* <div className="full-viewport-section">
+      <div className="full-viewport-section">
         <Experience />
-      </div> */}
+      </div>
       {/* <div className="full-viewport-section landing"> */}
       {/* <div>
         <About />
