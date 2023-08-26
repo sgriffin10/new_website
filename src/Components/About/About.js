@@ -50,7 +50,7 @@ function About() {
             />
           </a>
           <a
-            href="Static/Spencer_Griffin_Resume.pdf"
+            href="Files/Spencer_Griffin_Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
