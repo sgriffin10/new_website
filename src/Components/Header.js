@@ -19,7 +19,7 @@ function Header() {
             Experience
           </NavItem>
           <NavItem href="#about" duration="1200" className="nav-btn">
-            About Me
+            Contact
           </NavItem>
         </ul>
       </nav>
